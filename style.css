@@ -5,7 +5,20 @@ body {
 }
 
 header {
-    border-bottom: solid 2px black;
+    border-bottom: solid 2px rgb(10, 44, 5);
     padding: 20px;
-    font-size: 30px;
+    font-size: 35px;
+    color: rgb(10,44,5);
+}
+
+section {
+    background: rgb(67,30,67,1);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+margin-right
 }
